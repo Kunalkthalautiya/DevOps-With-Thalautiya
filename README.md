@@ -9,4 +9,4 @@ Here is a list of all the projects in this challenge:
 | #  | Project Name | Repository Link |
 |----|-------------|----------------|
 | 1  | CI/CD Pipeline using Jenkins & AWS ECS | [GitHub Repo](https://github.com/Kunalkthalautiya/Project-1-Automated-CI-CD-Pipeline-AWS-ECS) |
-| 2  | Terraform-AWS-IaC-Automation | [GitHub Repo](https://github.com/Kunalkthalautiya/Project-2-Terraform-AWS-IaC-Automation) |
+
